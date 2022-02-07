@@ -1,0 +1,2 @@
+# ElectronKiosk
+Simple KioskMode
