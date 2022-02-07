@@ -1,0 +1,17 @@
+{
+  "name": "ElectronKiosk",
+  "version": "1.0.0",
+  "description": "ElectronKiosk",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "startd": "electron . --trace-warnings",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jens Kapitza <mail@jenskapitza.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.0.0",
+    "electron-packager": "^15.4.0"
+  }
+}
